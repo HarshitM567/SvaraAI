@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+scikit-learn
+joblib
+transformers
+datasets
+torch
+sentencepiece
+accelerate
+python-multipart
+pydantic
+pytest
